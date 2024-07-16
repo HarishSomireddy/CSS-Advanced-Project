@@ -41,7 +41,6 @@
                 <div class="gallery-item"><img src="img3.png" alt="Image 3"></div>
                 <div class="gallery-item"><img src="img4.png" alt="Image 4"></div>
                 <div class="gallery-item"><img src="img5.png" alt="Image 5"></div>
-                <div class="gallery-item"><img src="img6.png" alt="Image 6"></div>
             </div>
         </section>
     </main>
